@@ -6,13 +6,6 @@ Built using **Flask**, **scikit-learn**, and deployed on **Render**.
 
 ---
 
-## 🔗 Live Demo
-
-👉 **Live App:** https://car-price-predictor-0xix.onrender.com/#predictor 
-*(Note: First load may take a few seconds due to free-tier cold start)*
-
----
-
 ## ✨ Features
 
 - 🔍 Predicts market value of used cars
